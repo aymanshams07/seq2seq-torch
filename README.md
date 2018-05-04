@@ -5,3 +5,5 @@ Pytorch implementaion of a similar network structure will be deployed this time.
 
 More importantly, state of the art for machine translation is explored in this work. 
 There seems to be an unsolvable error of compilation
+
+A simple baseline for all pytorch projects should be practiced first
